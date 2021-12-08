@@ -2,7 +2,7 @@
 
 namespace Depa\Helper\Traits;
 
-trait shortenText
+trait ShortenText
 {
     /**
      * @param string|null $string
